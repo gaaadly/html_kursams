@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    min-height: 100vh; 
+    background-image: 
+        url("../IMG/cat.png"), 
+        url("../IMG/asteroid.png"), 
+        url("../IMG/beach.jpg");
+
+    background-size: 
+        500px auto,  
+        300px auto,  
+        cover;
+
+    background-repeat: no-repeat;
+
+    background-position: 
+        bottom 15% left 20%, 
+        top 5% right 40%, 
+        center; 
+    
+    background-attachment: fixed;
+}

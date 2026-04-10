@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    display: inline-block;
+    position: relative;
+    margin: auto;
+}
+
+.description {
+    padding-top: 100px;
+    padding-left: 500px;
+    padding-right: 100px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 4rem;
+    left: 18rem;
+    width: 1000px;
+    height: 500px;
+}
+
+.image {
+    position: absolute;
+    top: 18rem;
+    left: 1rem;
+}
+
+img {
+    width: 700px
+}
+
+.btn {
+    padding: 15px 35px;
+    font-size: 18px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 3rem;
+}

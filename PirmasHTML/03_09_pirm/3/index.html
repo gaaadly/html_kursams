@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Form Exercise</h1>
+
+    <form>
+      <div class="form-group">
+        <label for="text-input">Text input</label>
+        <p><input type="text" id="text-input" placeholder="Enter text..." /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="pass-input">Password input</label>
+        <p><input type="password" id="pass-input" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="email-input">E-mail input</label>
+        <p><input type="email" id="email-input" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="url-input">URL input</label>
+        <p><input type="url" id="url-input" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="search-input">Search input</label>
+        <p><input type="search" id="search-input" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="req-input">Required input</label>
+        <p><input type="text" id="req-input" required /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="read-input">Read-only input</label>
+        <p><input type="text" id="read-input" value="Readonly text" readonly /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="dis-input">Disabled input</label>
+        <p><input type="text" id="dis-input" disabled /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="single-select">Single-select</label>
+        <select id="single-select">
+          <option>Option 1</option>
+          <option>Option 2</option>
+          <option>Option 3</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="multi-select">Multiple-select</label>
+        <p><select id="multi-select" multiple size="4">
+          <option>Option 1</option>
+          <option>Option 2</option>
+          <option>Option 3</option>
+        </select></p>
+      </div>
+
+      <div class="form-group">
+        <label>Checkbox</label>
+        <div class="inline-group">
+          <input type="checkbox" id="check-me" />
+          <label for="check-me">Check me</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Checkboxes</label>
+        <div class="inline-group">
+          <input type="checkbox" id="c-a" name="opts" />
+          <label for="c-a">Option A</label>
+        </div>
+        <div class="inline-group">
+          <input type="checkbox" id="c-b" name="opts" />
+          <label for="c-b">Option B</label>
+        </div>
+        <div class="inline-group">
+          <input type="checkbox" id="c-c" name="opts" />
+          <label for="c-c">Option C</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Radio buttons</label>
+        <div class="inline-group">
+          <input type="radio" id="r-a" name="radio-group" />
+          <label for="r-a">Option A</label>
+        </div>
+        <div class="inline-group">
+          <input type="radio" id="r-b" name="radio-group" />
+          <label for="r-b">Option B</label>
+        </div>
+        <div class="inline-group">
+          <input type="radio" id="r-c" name="radio-group" />
+          <label for="r-c">Option C</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="file-input">File input</label>
+        <p><input type="file" id="file-input" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="textarea">Textarea</label>
+        <p><textarea id="textarea" rows="3"></textarea></p>
+      </div>
+
+      <div class="form-group">
+        <label for="date-input">Date</label>
+        <p><input type="date" id="date-input" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="num-input">Number input</label>
+        <p><input type="number" id="num-input" value="0" /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="range-input">Range input</label>
+        <p><input type="range" id="range-input" /></p>
+      </div>
+
+      <div class="button-group">
+        <button type="submit">Save</button>
+        <button type="button">Cancel</button>
+      </div>
+    </form>
+  </body>
+</html>

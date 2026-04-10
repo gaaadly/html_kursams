@@ -1,0 +1,43 @@
+/* ALT+SHIFT+F*/ /* ALT+SHIFT+F*/ /* ALT+SHIFT+F*/ /* ALT+SHIFT+F*/
+/* ALT+SHIFT+F*/ /* ALT+SHIFT+F*/ /* ALT+SHIFT+F*/ /* ALT+SHIFT+F*/
+/* semantiniai mėgsta savo margin ir kitus atributus pridėti, pvz. <figure> { display: block, margin-inline: 40px }*/
+/* headeriui/footeriui duota klasė jei kartais article turėtų header */
+/* text-align: center konteineriui galima */
+/* nav pvz. */
+/* ul {
+   display: flex;
+  justify-content: space-evenly; 
+  padding: initial;
+  list-style-type: none;
+  & a {
+    text-decoration: none;
+     color: green;
+  }
+ } */
+
+/* to make border width count as a part of element etc. */
+* {
+  box-sizing: border-box;
+}
+
+/* global width, centered contents */
+
+#container {
+  max-width: 1200px;
+  min-width: 375px;
+  margin: 0px auto;
+}
+
+/* header */
+
+/* main */
+
+/* footer */
+
+/* media for tablets: width < 1024px */
+@media (max-width: 1023px) {
+}
+
+/* media for phones: width < 768px */
+@media (max-width: 767px) {
+}

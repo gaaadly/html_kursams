@@ -1,0 +1,144 @@
+/*****************************************************
+
+    Numatytųjų naršyklės stiliaus taisyklių perrašymas 
+
+******************************************************/
+
+* {
+    margin:0;
+}
+
+
+body{
+    font-family: 'Questrial', sans-serif;
+    font-size: 12pt;
+}
+
+.description{
+    background-color: #F3F3F3;
+}
+
+.container{
+    padding: 30px 10px;
+}
+
+/****************************************
+
+    Tinklapio antraštė 
+
+*****************************************/
+
+header {
+    background-color: #16A085;
+    color: white;
+}
+
+header h1 {
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+
+header h3 {
+    word-spacing: 0.3em;
+}
+
+header nav {
+    border-top: 2px dashed white;
+    padding-top: 20px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
+header nav li {
+    display: inline-block;
+    width: 150px;
+}
+
+
+header a:link, header a:visited, header a:hover {
+    color: white;
+}
+
+header a:hover {
+    font: unset;
+}
+
+header a:active {
+    color: gray
+}
+
+
+/*************************************
+    
+    Tinklapio pagrindinė dalis | Main 
+
+*************************************/
+article h3 {
+    text-transform: uppercase;
+    color: #16A085;
+    word-spacing: 0.3em;
+}
+
+article ul {
+    list-style-type: square;
+}
+
+article ol {
+    list-style-type: lower-roman;
+    line-height: 2;
+}
+
+main article section:first-child {
+    text-align: center;
+}
+
+img {
+    border: 1px solid #16A085;
+}
+
+/**************************************
+
+    Tinklapio baigiamoji dalis | footer
+
+***************************************/
+
+footer {
+    text-align: center;
+    background-color: #16A085;
+}
+
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer li {
+    list-style-position: inside;
+}
+
+footer h5 {
+    padding-top: 20px;
+}
+
+
+/* <h5>, esančio <footer> dalyje:
+    viršutinės vidinė paraštė: 20px;
+*/
+
+
+
+
+
+
+

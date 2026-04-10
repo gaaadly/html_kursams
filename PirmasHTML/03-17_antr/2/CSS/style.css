@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(192, 239, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'roboto', sans-serif;
+}
+
+main {
+    background-color: rgb(243, 243, 243);
+    width: 300px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+
+
+img {
+    background-color: rgb(192, 239, 239);
+    width: 280px;
+    align-items: center;
+}
+
+h1 {
+    border: 1px solid grey;
+    margin: 10px 10px 10px;
+    margin-top: 0px;
+}
+
+.text {
+    border: 1px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.label {
+    font-weight: bold;
+}

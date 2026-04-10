@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+ body {
+  margin: 0;
+ }
+/* nuo min-width  iki max-width */
+#container {
+  max-width: 1200px;
+  min-width: 375px;
+  margin: 15rem auto;
+  background-color: aliceblue;
+  border: 1px solid blue;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+p {
+  background-color: yellow;
+}
+
+
+/* nuo 605px iki max-width */
+@media (min-width: 605px) {
+  p {
+    background-color: rgb(24, 7, 202);
+  }
+  
+  #container {
+    flex-direction: row;
+    color: white;
+  }
+}
+
+/* nuo 800px iki max-width */
+@media (min-width: 800px) {
+  p {
+    background-color: blueviolet;
+    height: 5rem;
+  }
+}
+
+

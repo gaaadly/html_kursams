@@ -1,0 +1,25 @@
+.container {
+    width: 500px;
+    border: 2px solid darkslategray;
+    padding: 2em;
+    margin: 5em auto;
+}
+
+
+
+/* CSS stilius įterpti čia */
+
+ul {
+  list-style-type: none;
+}
+
+li::before {
+  content: "★";           
+  color: gold;               
+}
+
+
+
+li.active:before {
+    color: goldenrod;
+}

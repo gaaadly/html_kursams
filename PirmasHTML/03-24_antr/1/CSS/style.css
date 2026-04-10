@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.box1, .box2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.box1 p {
+    border: 1px solid white;
+    background-color: blueviolet;
+    height: 200px;
+}
+
+.box2 p {
+    border: 1px solid white;
+    background-color: rgb(29, 220, 26);
+    height: 200px;
+}
+
+p {
+    flex: 1;
+    flex-basis: 5rem;
+}
+
+h1, h2, p {
+    background-color: navy;
+    color: white;
+    text-align: center;
+}

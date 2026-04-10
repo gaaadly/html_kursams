@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lietuviški patiekalai</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+
+<div class="container">
+    
+    <header>
+        <h1>Lietuviški patiekalai</h1>
+    </header>
+
+    <section id="apie">
+        <h2>Apie</h2>
+        <p>Lietuviška virtuvė pasižymi sotumu ir paprastais, vietiniais ingredientais. Populiariausi patiekalai – <strong>cepelinai</strong>, <strong>šaltibarščiai</strong> ir <strong>kugelis</strong>. Žemiau rasi trumpą pristatymą, nuotraukų galeriją, ingredientų lentelę bei kontaktų formą.</p>
+    </section>
+
+    <section id="galerija">
+        <h2>Galerija</h2>
+        <p>Keletas žinomų lietuviškų patiekalų:</p>
+        
+        <div class="gallery-grid">
+            <article class="dish-card">
+                <img src="img/cepelinai.jpg" alt="Cepelinai">
+                <h3>Cepelinai</h3>
+            </article>
+            <article class="dish-card">
+                <img src="img/saltibarsciai.jpg" alt="Šaltibarščiai">
+                <h3>Šaltibarščiai</h3>
+            </article>
+            <article class="dish-card">
+                <img src="img/kugelis.jpg" alt="Kugelis">
+                <h3>Kugelis</h3>
+            </article>
+        </div>
+
+        <p class="gallery-footer">Nuotraukos iš Unsplash (švietimo tikslams tinkamos). Jei reikia – pakeiskite į vietinius failus img/foto1.jpg ir pan.</p>
+    </section>
+
+    <section id="ingredientai">
+        <h2>Ingredientai (kugelio pavyzdys)</h2>
+        <p>Šioje lentelėje – pagrindiniai tradicinio kugelio ingredientai ~4 porcijoms.</p>
+        
+        <h3>Kugelio sudėtis</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientas</th>
+                    <th>Kiekis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Bulvės</td><td>1,5 kg</td></tr>
+                <tr><td>Kiaušiniai</td><td>3 vnt.</td></tr>
+                <tr><td>Šoninė</td><td>150 g</td></tr>
+                <tr><td>Svogūnas</td><td>1 vnt.</td></tr>
+                <tr><td>Pienas arba grietinėlė</td><td>200 ml</td></tr>
+                <tr><td>Druska, pipirai</td><td>pagal skonį</td></tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="kontaktai">
+        <h2>Kontaktų forma</h2>
+        <p>Turite klausimų ar pasiūlymų apie lietuviškus patiekalus? Parašykite:</p>
+
+        <form>
+            <div class="form-group">
+                <label for="vardas">Vardas</label>
+                <input type="text" id="vardas" placeholder="Jūsų vardas">
+            </div>
+            <div class="form-group">
+                <label for="email">El. paštas</label>
+                <input type="email" id="email" placeholder="vardas@pastas.lt">
+            </div>
+            <div class="form-group">
+                <label for="tema">Tema</label>
+                <select id="tema">
+                    <option>Receptų klausimas</option>
+                    <option>Pasiūlymas</option>
+                    <option>Kita</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="zinute">Žinutė</label>
+                <textarea id="zinute" rows="4" placeholder="Trumpai aprašykite klausimą..."></textarea>
+            </div>
+            <button type="submit">Siųsti</button>
+        </form>
+    </section>
+
+    <footer>
+        &copy; 2026 Lietuviški patiekalai • Mokomasis pavyzdys
+    </footer>
+
+</div>
+
+</body>
+</html>

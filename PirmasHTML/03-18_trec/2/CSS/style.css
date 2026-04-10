@@ -1,0 +1,28 @@
+.button:not(div) {
+    border: 3px dashed black;
+}
+
+.button--red {
+    background-color: red;
+}
+
+.button--blue {
+    background-color: blue;
+}
+
+.button--green {
+    background-color: green;
+}
+
+.button--small {
+    font-size: 12px;
+}
+
+.button--big {
+    font-size: 40px;
+}
+
+.button--round {
+    padding: 10px 30px;
+    border-radius: 50px;
+}

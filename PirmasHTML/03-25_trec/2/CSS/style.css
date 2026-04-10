@@ -1,0 +1,292 @@
+/* =================================
+Global variables
+====================================*/
+:root {
+    --main-color: #eec627;
+}
+
+/* --- GLOBAL STYLES --- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+.sr-only {
+  display: none; /* Quick utility to hide labels visually but keep them for form logic */
+}
+
+/* --- REUSABLE UTILITIES --- */
+.section {
+  padding: 80px 5%;
+}
+
+.bg-light {
+  background-color: #f8f9fa; /* Light grey background for alternating sections */
+}
+
+.section-heading {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 50px auto;
+}
+
+.section-heading h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+.section-heading p {
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.yellow-divider {
+  width: 50px;
+  height: 2px;
+  background-color: var(--main-color);
+  border: none;
+  margin: 20px auto 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 30px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border: none;
+  transition: opacity 0.3s;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn-yellow {
+  background-color: var(--main-color);
+  color: #fff;
+}
+
+/* --- HERO HEADER --- */
+.hero-header {
+  /* Replace this URL with your actual mountain image path */
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+              url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2070&auto=format&fit=crop') center/cover no-repeat;
+  height: 80vh; /* Takes up 80% of the screen height */
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 5%;
+}
+
+.navbar .logo {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+  font-size: 0.9rem;
+}
+
+.hero-content {
+  flex: 1; /* Pushes content to fill the remaining space */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 3.5rem;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+/* --- SECTION 1: WORK GALLERY (CSS GRID) --- */
+.work-grid {
+  display: grid;
+  /* We use 5 columns total so we can span them 2/3 and 3/2 to match the image */
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 15px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.work-grid img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+/* Top row: Left image is narrower (2 columns), right is wider (3 columns) */
+.work-grid img:nth-child(1) { grid-column: span 2; }
+.work-grid img:nth-child(2) { grid-column: span 3; }
+
+/* Bottom row: Left image is wider (3 columns), right is narrower (2 columns) */
+.work-grid img:nth-child(3) { grid-column: span 3; }
+.work-grid img:nth-child(4) { grid-column: span 2; }
+
+/* --- SECTION 2: FEATURES (FLEXBOX) --- */
+.features-flex {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  max-width: 1100px;
+  margin: 0 auto;
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+}
+
+.feature-box {
+  flex: 1;
+  min-width: 250px;
+  text-align: center;
+}
+
+.icon-placeholder {
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+  color: var(--main-color);
+}
+
+.feature-box h3 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.feature-box p {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* --- SECTION 3: TESTIMONIALS --- */
+.testimonials-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+.testimonials-section blockquote {
+  text-align: center;
+  max-width: 600px;
+}
+
+.testimonials-section blockquote p {
+  font-style: italic;
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.testimonials-section blockquote footer {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+/* --- SECTION 4: NEWSLETTER --- */
+.newsletter-form {
+  display: flex;
+  justify-content: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.newsletter-form input {
+  flex: 1; /* Takes up remaining space next to button */
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+  outline: none;
+}
+
+.newsletter-form .btn {
+  border-radius: 0; /* Keep it square/flat */
+}
+
+/* --- FOOTER --- */
+.main-footer {
+  background-color: #4c565e; /* Slate dark grey */
+  color: #aeb5b9;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.social-icons span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35px;
+  height: 35px;
+  border: 1px solid #aeb5b9;
+  color: #aeb5b9;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.social-icons span:hover {
+  background-color: #aeb5b9;
+  color: #4c565e;
+}
+
+.main-footer p {
+  font-size: 0.85rem;
+  margin-bottom: 5px;
+}
+
+/* --- RESPONSIVE DESIGN --- */
+@media (max-width: 768px) {
+  /* Stack grid images on mobile */
+  .work-grid img:nth-child(n) {
+    grid-column: span 5;
+  }
+  
+  /* Stack newsletter form inputs */
+  .newsletter-form {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .hero-content h1 {
+    font-size: 2.5rem;
+  }
+}

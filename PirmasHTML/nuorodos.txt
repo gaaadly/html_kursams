@@ -1,0 +1,14 @@
+Listams supaprastinti: 
+
+ul {
+  /* display: flex;
+  justify-content: space-evenly; */
+  padding: initial;
+  list-style-type: none;
+  & a {
+    text-decoration: none;
+    /* color: green; */
+  }
+ }
+ 
+ 

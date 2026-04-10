@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    gap: 15px;
+    width: 80%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.box {
+    background-color: pink;
+    color: white;
+    font-size: large;
+    padding: 40px;
+    text-align: center;
+    height: 200px;
+    border-radius: 15px;
+}

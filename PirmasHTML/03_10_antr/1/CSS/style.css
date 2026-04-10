@@ -1,0 +1,74 @@
+/* 
+Style the HTML elements according to the following instructions. 
+WRITE ONLY CSS!
+*/
+body {
+  background-color: lightgray;
+}
+
+h1 {
+    color: purple;
+}
+
+h2, h3 {
+    color: orange;
+}
+
+div p {
+    font-size: 25px;
+}
+
+.hello {
+    background-color: white;
+}
+
+#special {
+    border: solid blue 2px;
+}
+
+p#special2 span {
+    border: solid red 2px;
+}
+
+div ul {
+    color: darkblue;
+}
+
+div ul ul {
+    color: purple
+}
+
+/* Change the style of multilevel list in <div> element: first level of list darkblue, second - pupple */
+/* Kelių lygių sąrašo, esančio div elemente, pirmojo lygmens spalva: darkblue, antrojo: pupple */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

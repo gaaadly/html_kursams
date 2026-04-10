@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="/pateikti" method="POST">
+      <h1>Užpildykite formą:</h1>
+      <p style="font: bold">Visi laukai privalomi.</p>
+
+      <div class="form-group">
+        <label for="vardas">Vardas (iš didžiosios raidės):</label>
+        <p>
+          <input type="text" id="vardas" name="vardas" placeholder="Vardas" />
+        </p>
+      </div>
+
+      <div class="form-group">
+        <label for="telefonas">Jūsų telefono numeris:</label>
+        <p>
+          <input
+            type="tel"
+            id="telefonas"
+            name="telefonas"
+            placeholder="+370-xxx-xxxxx"
+            required
+          />
+        </p>
+      </div>
+
+      <div class="form-group">
+        <label for="email">El.pašto adresas:</label>
+        <p>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="el.p.adresas"
+            required
+          />
+        </p>
+      </div>
+
+      <div class="form-group">
+        <label for="url"
+          >Jūsų mėgstamiausios internetinės svetainės adresas:</label
+        >
+        <p>
+          <input
+            type="url"
+            id="url"
+            name="url"
+            placeholder="url adresas"
+            required
+          />
+        </p>
+      </div>
+
+      <div class="form-group">
+        <label for="data">Jūsų gimimo data:</label>
+        <p><input type="date" id="data" name="data" required /></p>
+      </div>
+
+      <div class="form-group">
+        <label for="amzius">Jūsų amžius (18-65):</label>
+        <p>
+          <input
+            type="number"
+            id="amzius"
+            name="amzius"
+            placeholder="nuo 18 iki 65 metų"
+            required
+          />
+        </p>
+      </div>
+
+      <div class="form-group">
+        <label for="pasto-kodas">Jūsų pašto kodas:</label>
+        <p>
+          <input
+            type="text"
+            id="pasto-kodas"
+            name="pasto-kodas"
+            placeholder="XX-01234"
+            required
+          />
+        </p>
+      </div>
+
+      <div class="form-group">
+        <label for="spalva">Jūsų mėgstamiausia spalva:</label>
+        <p><input type="color" id="spalva" name="spalva" required /></p>
+      </div>
+
+      <button type="submit">Pateikti</button>
+    </form>
+  </body>
+</html>
