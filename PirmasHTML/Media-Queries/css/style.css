@@ -43,3 +43,47 @@ p {
 }
 
 
+/* =========================================
+   1. DEFAULT STYLES (DESKTOP)
+   These apply to large screens first. 
+   No media query is needed here.
+========================================= */
+.container {
+  width: 1200px;
+  display: flex;
+  gap: 20px;
+}
+
+
+/* =========================================
+   2. TABLETS (Landscape/Large)
+   Triggers when screen is 1024px or smaller.
+========================================= */
+@media (max-width: 1024px) {
+  .container {
+    width: 90%; /* Let it shrink */
+  }
+}
+
+
+/* =========================================
+   3. TABLETS (Portrait) & LARGE PHONES
+   Triggers when screen is 768px or smaller.
+========================================= */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stack elements instead of side-by-side */
+  }
+}
+
+
+/* =========================================
+   4. MOBILE PHONES
+   Triggers when screen is 480px or smaller.
+========================================= */
+@media (max-width: 480px) {
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+}
