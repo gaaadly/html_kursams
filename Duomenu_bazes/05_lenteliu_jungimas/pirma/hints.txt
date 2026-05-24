@@ -1,0 +1,18 @@
+1. Panaudota: SELECT, FROM, WHERE. Lentelės: products, categories
+2. Panaudota: SELECT, FROM, JOIN, ON. Lentelės: products, categories
+3. Panaudota: SELECT, FROM, INNER JOIN, ON. Lentelės: products, suppliers
+4. Panaudota: SELECT, FROM, JOIN, ON. Lentelės: customers, orders
+5. Panaudota: SELECT, FROM, JOIN, ON, ORDER BY. Lentelės: orders, customers, order_items, products
+6. Panaudota: SELECT, AS, FROM, JOIN, ON, ORDER BY. Lentelės: products, categories, suppliers
+7. Panaudota: SELECT, FROM, JOIN, ON, WHERE, ORDER BY. Lentelės: products, categories
+8. Panaudota: SELECT, FROM, JOIN, ON, WHERE, ORDER BY. Lentelės: customers, orders
+9. Panaudota: SELECT, FROM, LEFT JOIN, ON, ORDER BY. Lentelės: customers, orders
+10. Panaudota: SELECT, FROM, LEFT JOIN, ON, ORDER BY. Lentelės: categories, products
+11. Panaudota: SELECT, FROM, LEFT JOIN, ON, ORDER BY. Lentelės: products, suppliers
+12. Panaudota: SELECT, FROM, RIGHT JOIN, ON, ORDER BY. Lentelės: products, suppliers
+13. Panaudota: SELECT, FROM, LEFT JOIN, ON, WHERE, IS NULL, ORDER BY. Lentelės: customers, orders
+14. Panaudota: SELECT, FROM, LEFT JOIN, ON, WHERE, IS NULL, ORDER BY. Lentelės: products, order_items
+15. Panaudota: SELECT, SUM, AS, FROM, JOIN, ON, GROUP BY, ORDER BY. Lentelės: orders, order_items
+16. Panaudota: SELECT, SUM, AS, FROM, LEFT JOIN, ON, GROUP BY, ORDER BY. Lentelės: customers, orders, order_items
+17. Panaudota: SELECT, COUNT, AS, FROM, LEFT JOIN, ON, GROUP BY, HAVING, ORDER BY. Lentelės: categories, products
+18. Panaudota: SELECT, AS, FROM, WHERE, IS NOT NULL, UNION, ORDER BY. Lentelės: customers, suppliers
