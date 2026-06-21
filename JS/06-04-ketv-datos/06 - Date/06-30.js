@@ -1,0 +1,4 @@
+/*
+Write a JavaScript function to get lowercase Ante meridiem and Post meridiem.
+*/
+

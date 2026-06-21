@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tip Calculator</title>
+    <script src="dom_calculator.js" defer></script>
+  </head>
+  <body>
+    <h1>Tip Calculator</h1>
+
+    <input id="bill" type="number" placeholder="$0.00" />
+    <br />
+    <span id="tip-percent">0%</span>
+
+    <input id="tip" type="range" min="0" max="100" value="0" />
+
+    <p>Tip: $<span id="tip-amount">0</span></p>
+    <p>Total: $<span id="total">0</span></p>
+  </body>
+</html>

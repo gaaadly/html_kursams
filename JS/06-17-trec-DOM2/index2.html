@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="dom2.js" defer></script>
+  </head>
+  <body>
+    <h1>Tip Calculator</h1>
+
+    <!-- Inputs section -->
+    <div id="inputs">
+      <label>Bill</label>
+      <input id="bill" type="number" placeholder="0" /> $
+        <br>
+      <label>Tip</label>
+      <input id="tip" type="number" placeholder="0" /> %
+    </div>
+
+    <!-- Results section -->
+    <div id="results">
+      <p>Tip amount: <span id="tip-amount">0</span> $</p>
+      <p>Total: <span id="total">0</span> $</p>
+    </div>
+
+    <!-- Button -->
+    <button id="calculate-btn">Calculate</button>
+  </body>
+</html>
