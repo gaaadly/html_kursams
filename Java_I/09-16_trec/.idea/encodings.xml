@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/01-speeding-ticket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/01-speeding-ticket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/02-larger-or-equal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/02-larger-or-equal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/03-grades-and-points/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/03-grades-and-points/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/04-three-number-maximum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_01-comparisons-if-tasks/04-three-number-maximum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/01-entry-rules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/01-entry-rules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/02-divisibility-report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/02-divisibility-report/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/03-safe-text-comparison/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/03-safe-text-comparison/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/04-leap-year/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_02-logical-conditions-tasks/04-leap-year/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/01-carry-on/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/01-carry-on/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/02-until-four/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/02-until-four/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/03-positive-squares/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/03-positive-squares/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/04-number-stream-report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_01-while-loop-control/04-number-stream-report/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/01-inclusive-range/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/01-inclusive-range/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/02-multiples-report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/02-multiples-report/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/03-interval-sum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/03-interval-sum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/04-factorial/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/04-factorial/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/05-smallest-divisor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02-for-ranges-accumulators/05-smallest-divisor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/01-weeks-and-days/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/01-weeks-and-days/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/02-multiplication-table/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/02-multiplication-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/03-hollow-rectangle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/03-hollow-rectangle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/04-coordinate-grid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03-nested-loops/04-coordinate-grid/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-circle-first-objects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-circle-first-objects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-circle-state/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-circle-state/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-circle-constructors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-circle-constructors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-circle-representation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-circle-representation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-rectangle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-rectangle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-room/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-room/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-door/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-door/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-whistle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-whistle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-song/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-song/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-product/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

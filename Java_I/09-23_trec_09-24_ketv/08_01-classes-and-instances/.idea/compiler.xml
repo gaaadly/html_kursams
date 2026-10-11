@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="08-whistle" />
+        <module name="05-rectangle" />
+        <module name="06-room" />
+        <module name="06-agent" />
+        <module name="01-circle-first-objects" />
+        <module name="09-song" />
+        <module name="10-product" />
+        <module name="04-circle-representation" />
+        <module name="07-door" />
+        <module name="03-circle-constructors" />
+        <module name="02-circle-state" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

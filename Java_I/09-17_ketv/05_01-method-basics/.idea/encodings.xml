@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-method-message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-method-message/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-two-directions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-two-directions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-decimal-division/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-decimal-division/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-divisible-by-three/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-divisible-by-three/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-smallest-and-greatest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-smallest-and-greatest/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

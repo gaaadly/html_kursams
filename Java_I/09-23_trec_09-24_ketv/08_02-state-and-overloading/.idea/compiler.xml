@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01-multiplier" />
+        <module name="07-statistics" />
+        <module name="06-decreasing-counter" />
+        <module name="03-overloaded-counter" />
+        <module name="09-device-registrations" />
+        <module name="08-three-statistics" />
+        <module name="10-employee" />
+        <module name="02-product-constructors" />
+        <module name="05-debt" />
+        <module name="04-gauge" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

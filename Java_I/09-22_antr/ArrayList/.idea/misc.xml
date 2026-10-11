@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-words/pom.xml" />
+        <option value="$PROJECT_DIR$/14-index-of/pom.xml" />
+        <option value="$PROJECT_DIR$/06-remove-last/pom.xml" />
+        <option value="$PROJECT_DIR$/10-the-greatest/pom.xml" />
+        <option value="$PROJECT_DIR$/02-recurring-word/pom.xml" />
+        <option value="$PROJECT_DIR$/07-sum-of-numbers/pom.xml" />
+        <option value="$PROJECT_DIR$/11-more-than-once/pom.xml" />
+        <option value="$PROJECT_DIR$/05-number-of-items/pom.xml" />
+        <option value="$PROJECT_DIR$/13-smart-combining/pom.xml" />
+        <option value="$PROJECT_DIR$/15-index-of-smallest/pom.xml" />
+        <option value="$PROJECT_DIR$/08-average-of-numbers/pom.xml" />
+        <option value="$PROJECT_DIR$/09-lengths-of-strings/pom.xml" />
+        <option value="$PROJECT_DIR$/12-combining-arraylists/pom.xml" />
+        <option value="$PROJECT_DIR$/03-words-in-reverse-order/pom.xml" />
+        <option value="$PROJECT_DIR$/04-words-in-alphabetical-order/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
