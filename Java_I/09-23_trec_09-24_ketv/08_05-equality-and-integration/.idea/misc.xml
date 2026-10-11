@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/03-books/pom.xml" />
+        <option value="$PROJECT_DIR$/04-archive/pom.xml" />
+        <option value="$PROJECT_DIR$/06-cargo-hold/pom.xml" />
+        <option value="$PROJECT_DIR$/01-song-equality/pom.xml" />
+        <option value="$PROJECT_DIR$/05-card-payments/pom.xml" />
+        <option value="$PROJECT_DIR$/02-identical-twins/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

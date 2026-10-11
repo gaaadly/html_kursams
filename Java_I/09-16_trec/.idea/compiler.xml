@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-number-stream-report" />
+        <module name="01-weeks-and-days" />
+        <module name="04-coordinate-grid" />
+        <module name="03-positive-squares" />
+        <module name="03-safe-text-comparison" />
+        <module name="03-grades-and-points" />
+        <module name="02-multiplication-table" />
+        <module name="05-smallest-divisor" />
+        <module name="01-speeding-ticket" />
+        <module name="01-inclusive-range" />
+        <module name="01-carry-on" />
+        <module name="02-larger-or-equal" />
+        <module name="04-factorial" />
+        <module name="03-hollow-rectangle" />
+        <module name="04-three-number-maximum" />
+        <module name="04-leap-year" />
+        <module name="02-divisibility-report" />
+        <module name="03-interval-sum" />
+        <module name="02-until-four" />
+        <module name="02-multiples-report" />
+        <module name="01-entry-rules" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

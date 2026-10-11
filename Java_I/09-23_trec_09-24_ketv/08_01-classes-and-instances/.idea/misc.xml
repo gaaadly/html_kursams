@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/06-agent/pom.xml" />
+        <option value="$PROJECT_DIR$/05-rectangle/pom.xml" />
+        <option value="$PROJECT_DIR$/02-circle-state/pom.xml" />
+        <option value="$PROJECT_DIR$/03-circle-constructors/pom.xml" />
+        <option value="$PROJECT_DIR$/01-circle-first-objects/pom.xml" />
+        <option value="$PROJECT_DIR$/04-circle-representation/pom.xml" />
+        <option value="$PROJECT_DIR$/06-room/pom.xml" />
+        <option value="$PROJECT_DIR$/07-door/pom.xml" />
+        <option value="$PROJECT_DIR$/08-whistle/pom.xml" />
+        <option value="$PROJECT_DIR$/09-song/pom.xml" />
+        <option value="$PROJECT_DIR$/10-product/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

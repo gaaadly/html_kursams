@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-words/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-words/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-recurring-word/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-recurring-word/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-words-in-reverse-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-words-in-reverse-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-words-in-alphabetical-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-words-in-alphabetical-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-number-of-items/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-number-of-items/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-remove-last/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-remove-last/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-sum-of-numbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-sum-of-numbers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-average-of-numbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-average-of-numbers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-lengths-of-strings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-lengths-of-strings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-the-greatest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-the-greatest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-more-than-once/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-more-than-once/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-combining-arraylists/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-combining-arraylists/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-smart-combining/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-smart-combining/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-index-of/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-index-of/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-index-of-smallest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-index-of-smallest/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

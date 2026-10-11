@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-seconds-in-a-day/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-seconds-in-a-day/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-cups-calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-cups-calculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-sum-and-average/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-sum-and-average/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-simple-calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-simple-calculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-miles-to-kilometers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-miles-to-kilometers/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

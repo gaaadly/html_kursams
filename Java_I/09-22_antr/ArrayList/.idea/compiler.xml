@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="09-lengths-of-strings" />
+        <module name="04-words-in-alphabetical-order" />
+        <module name="13-smart-combining" />
+        <module name="02-recurring-word" />
+        <module name="01-words" />
+        <module name="07-sum-of-numbers" />
+        <module name="12-combining-arraylists" />
+        <module name="10-the-greatest" />
+        <module name="14-index-of" />
+        <module name="08-average-of-numbers" />
+        <module name="05-number-of-items" />
+        <module name="06-remove-last" />
+        <module name="15-index-of-smallest" />
+        <module name="11-more-than-once" />
+        <module name="03-words-in-reverse-order" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/05-debt/pom.xml" />
+        <option value="$PROJECT_DIR$/04-gauge/pom.xml" />
+        <option value="$PROJECT_DIR$/10-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/01-multiplier/pom.xml" />
+        <option value="$PROJECT_DIR$/07-statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/08-three-statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/03-overloaded-counter/pom.xml" />
+        <option value="$PROJECT_DIR$/06-decreasing-counter/pom.xml" />
+        <option value="$PROJECT_DIR$/02-product-constructors/pom.xml" />
+        <option value="$PROJECT_DIR$/09-device-registrations/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

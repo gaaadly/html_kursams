@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05-vehicle-registry" />
+        <module name="07-storage-facility" />
+        <module name="02-print-me-my-hashmap" />
+        <module name="01-abbreviations" />
+        <module name="03-print-me-another-hashmap" />
+        <module name="04-i-owe-you" />
+        <module name="06-dictionary-of-many-translations" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

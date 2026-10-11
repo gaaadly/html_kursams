@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-archive" />
+        <module name="06-cargo-hold" />
+        <module name="03-books" />
+        <module name="02-identical-twins" />
+        <module name="05-card-payments" />
+        <module name="01-song-equality" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

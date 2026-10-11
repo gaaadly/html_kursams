@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/04_03-nested-loops/01-weeks-and-days/pom.xml" />
+        <option value="$PROJECT_DIR$/04_03-nested-loops/04-coordinate-grid/pom.xml" />
+        <option value="$PROJECT_DIR$/04_03-nested-loops/03-hollow-rectangle/pom.xml" />
+        <option value="$PROJECT_DIR$/04_03-nested-loops/02-multiplication-table/pom.xml" />
+        <option value="$PROJECT_DIR$/04_01-while-loop-control/01-carry-on/pom.xml" />
+        <option value="$PROJECT_DIR$/04_01-while-loop-control/02-until-four/pom.xml" />
+        <option value="$PROJECT_DIR$/04_01-while-loop-control/03-positive-squares/pom.xml" />
+        <option value="$PROJECT_DIR$/04_01-while-loop-control/04-number-stream-report/pom.xml" />
+        <option value="$PROJECT_DIR$/03_01-comparisons-if-tasks/01-speeding-ticket/pom.xml" />
+        <option value="$PROJECT_DIR$/03_01-comparisons-if-tasks/02-larger-or-equal/pom.xml" />
+        <option value="$PROJECT_DIR$/03_01-comparisons-if-tasks/03-grades-and-points/pom.xml" />
+        <option value="$PROJECT_DIR$/03_01-comparisons-if-tasks/04-three-number-maximum/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02-for-ranges-accumulators/04-factorial/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02-for-ranges-accumulators/03-interval-sum/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02-for-ranges-accumulators/01-inclusive-range/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02-for-ranges-accumulators/02-multiples-report/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02-for-ranges-accumulators/05-smallest-divisor/pom.xml" />
+        <option value="$PROJECT_DIR$/03_02-logical-conditions-tasks/04-leap-year/pom.xml" />
+        <option value="$PROJECT_DIR$/03_02-logical-conditions-tasks/01-entry-rules/pom.xml" />
+        <option value="$PROJECT_DIR$/03_02-logical-conditions-tasks/02-divisibility-report/pom.xml" />
+        <option value="$PROJECT_DIR$/03_02-logical-conditions-tasks/03-safe-text-comparison/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
