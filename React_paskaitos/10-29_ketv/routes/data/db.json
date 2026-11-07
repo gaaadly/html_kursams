@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "Test1",
+      "email": "test1@gmail.com",
+      "channel": "Code with Ania Kubow",
+      "favColor": "green",
+      "hobbies": [
+        "Reading",
+        "Cooking"
+      ],
+      "password": "abc",
+      "confirmPassword": "abc",
+      "likes": 10,
+      "id": "hjQNALRqFCo"
+    },
+    {
+      "username": "Test2",
+      "email": "test2@gmail.com",
+      "channel": "Net Ninja",
+      "favColor": "blue",
+      "hobbies": [
+        "Traveling",
+        "Cooking"
+      ],
+      "password": "abc",
+      "confirmPassword": "abc",
+      "likes": 19,
+      "id": "dx0cbNdnGX4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
