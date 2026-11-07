@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Minimal, functional styling. Most styling is done with Tailwind classes in the JSX. */
+
+/* Highlight the active navigation link (NavLink adds the "active" class automatically) */
+.nav a.active {
+  text-decoration: underline;
+}
+
+/* Validation error text under form fields */
+.error {
+  color: #dc2626;
+  font-size: 0.875rem;
+}

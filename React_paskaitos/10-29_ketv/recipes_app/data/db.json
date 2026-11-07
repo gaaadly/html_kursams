@@ -1,0 +1,92 @@
+{
+  "recipes": [
+    {
+      "id": "r1",
+      "title": "Margherita Pizza",
+      "image": "https://placehold.co/600x400?text=Margherita+Pizza",
+      "category": "Italian",
+      "readyInMinutes": 45,
+      "vegetarian": true,
+      "summary": "A classic Neapolitan pizza with tomato sauce, fresh mozzarella and basil. Simple ingredients, big flavour.",
+      "ingredients": "500 g pizza dough\n200 g tomato passata\n250 g fresh mozzarella\nFresh basil leaves\n2 tbsp olive oil\nSalt",
+      "instructions": "Heat the oven to its highest setting. Stretch the dough into a round, spread the passata on top, add torn mozzarella and bake for 8-10 minutes until the crust is golden. Finish with basil and olive oil."
+    },
+    {
+      "id": "r2",
+      "title": "Spaghetti Carbonara",
+      "image": "https://placehold.co/600x400?text=Spaghetti+Carbonara",
+      "category": "Italian",
+      "readyInMinutes": 25,
+      "vegetarian": false,
+      "summary": "Creamy Roman pasta made with eggs, pecorino and crispy guanciale, with no cream needed.",
+      "ingredients": "400 g spaghetti\n150 g guanciale or pancetta\n4 egg yolks\n1 whole egg\n80 g pecorino romano\nBlack pepper",
+      "instructions": "Boil the spaghetti. Fry the guanciale until crisp. Whisk the eggs with the pecorino and pepper. Toss hot pasta with the guanciale off the heat, then stir in the egg mixture with a splash of pasta water until creamy."
+    },
+    {
+      "id": "r3",
+      "title": "Classic Cheeseburger",
+      "image": "https://placehold.co/600x400?text=Cheeseburger",
+      "category": "American",
+      "readyInMinutes": 30,
+      "vegetarian": false,
+      "summary": "A juicy beef patty with melted cheddar, pickles and a soft toasted bun.",
+      "ingredients": "500 g ground beef\n4 burger buns\n4 slices cheddar\nPickles\nLettuce\nTomato\nKetchup and mustard",
+      "instructions": "Form four patties and season with salt and pepper. Sear on a hot pan for 3-4 minutes per side, adding the cheese at the end. Toast the buns and assemble with the toppings."
+    },
+    {
+      "id": "r4",
+      "title": "Veggie Mac and Cheese",
+      "image": "https://placehold.co/600x400?text=Mac+and+Cheese",
+      "category": "American",
+      "readyInMinutes": 35,
+      "vegetarian": true,
+      "summary": "Baked macaroni in a rich cheddar sauce with broccoli folded through.",
+      "ingredients": "300 g macaroni\n1 head broccoli\n40 g butter\n40 g flour\n500 ml milk\n250 g grated cheddar",
+      "instructions": "Cook the macaroni and broccoli. Make a roux with butter and flour, whisk in the milk, then melt in the cheese. Combine with the pasta and broccoli and bake for 15 minutes."
+    },
+    {
+      "id": "r5",
+      "title": "Pad Thai",
+      "image": "https://placehold.co/600x400?text=Pad+Thai",
+      "category": "Thai",
+      "readyInMinutes": 30,
+      "vegetarian": false,
+      "summary": "Stir-fried rice noodles with shrimp, egg, peanuts and a sweet-sour tamarind sauce.",
+      "ingredients": "200 g rice noodles\n200 g shrimp\n2 eggs\n3 tbsp tamarind paste\n2 tbsp fish sauce\n1 tbsp sugar\nBean sprouts\nCrushed peanuts\nLime",
+      "instructions": "Soak the noodles. Stir-fry the shrimp, push aside and scramble the eggs. Add the noodles and the sauce and toss until coated. Serve with sprouts, peanuts and lime."
+    },
+    {
+      "id": "r6",
+      "title": "Green Thai Curry with Tofu",
+      "image": "https://placehold.co/600x400?text=Green+Curry",
+      "category": "Thai",
+      "readyInMinutes": 35,
+      "vegetarian": true,
+      "summary": "Fragrant coconut curry with tofu, aubergine and Thai basil.",
+      "ingredients": "2 tbsp green curry paste\n400 ml coconut milk\n250 g firm tofu\n1 aubergine\nThai basil\n1 tbsp soy sauce\nJasmine rice",
+      "instructions": "Fry the curry paste in a little coconut cream, add the remaining coconut milk and aubergine and simmer for 10 minutes. Add the tofu, soy sauce and basil. Serve over rice."
+    },
+    {
+      "id": "r7",
+      "title": "Vegetarian Chinese Pot Stickers",
+      "image": "https://placehold.co/600x400?text=Pot+Stickers",
+      "category": "Chinese",
+      "readyInMinutes": 45,
+      "vegetarian": true,
+      "summary": "Pan-fried dumplings filled with mushrooms, cabbage and garlic, crisp on the bottom and soft on top.",
+      "ingredients": "30 dumpling wrappers\n200 g mushrooms\n150 g cabbage\n2 garlic cloves\n1 tbsp soy sauce\n1 tsp sesame oil",
+      "instructions": "Finely chop the filling ingredients and mix with soy sauce and sesame oil. Fill and fold the wrappers. Fry the bottoms until golden, add a splash of water, cover and steam for 5 minutes."
+    },
+    {
+      "id": "r8",
+      "title": "Kung Pao Chicken",
+      "image": "https://placehold.co/600x400?text=Kung+Pao+Chicken",
+      "category": "Chinese",
+      "readyInMinutes": 25,
+      "vegetarian": false,
+      "summary": "Spicy stir-fried chicken with peanuts, dried chillies and a glossy savoury sauce.",
+      "ingredients": "500 g chicken breast\n50 g roasted peanuts\n6 dried chillies\n2 tbsp soy sauce\n1 tbsp rice vinegar\n1 tbsp sugar\n1 tsp cornstarch",
+      "instructions": "Marinate the diced chicken in soy sauce and cornstarch. Stir-fry with the chillies until cooked, add the sauce ingredients and toss with the peanuts until glossy."
+    }
+  ]
+}

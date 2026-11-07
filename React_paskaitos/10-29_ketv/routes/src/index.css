@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.navigation {
+    display: flex;
+    gap: 1rem;
+}
+
+.navigation p {
+    padding: 1rem;
+    background-color: chocolate;
+}
+
+.navigation .active {
+    background-color: darkblue;
+}
