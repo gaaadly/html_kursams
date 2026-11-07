@@ -1,0 +1,19 @@
+# Dependencies (never push these, npm install recreates them)
+node_modules
+
+# Build output
+dist
+
+# Logs
+*.log
+
+# Editor and OS files
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Environment variables
+.env
+.env.local
